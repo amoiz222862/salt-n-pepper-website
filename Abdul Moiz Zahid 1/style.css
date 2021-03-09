@@ -1,0 +1,287 @@
+@font-face{
+    font-family: myfont ;
+ src: url(fonts/Hind-Light.ttf);
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    
+   
+    
+    
+    
+}
+
+.main {
+    background-color: black;
+    width: 100%;
+  
+  
+    
+}
+
+.logo {
+    padding-left: 100px;
+    padding-top: 10px;
+    display: inline;
+    width: 20%;
+    
+}
+
+.divul {
+  
+    width: 80%;
+   display: inline-block;
+   height: 10px;
+   margin-bottom: 80px;
+    
+    
+   
+}
+
+.list {
+    display: inline-block;
+    color: lightgrey;
+    padding: 1.8%;
+   
+   
+}
+.anchor{
+    font-family: myfont;
+    text-decoration: none;
+    
+}
+.anchor:hover{
+    color: red !important;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    border-radius: 9px;
+    height: 40px;
+    width: 100px;
+    border: none;
+}
+
+.btn:focus {
+    outline: none;
+}
+.anchorbtn{
+    text-decoration: none;
+    color: white !important;
+}
+
+.heading{
+   text-align: center;
+   font-family: myfont ;
+   font-weight: lighter;
+   font-size: 50px;  
+  
+}
+
+.para{
+    text-align: center;
+    font-family: myfont;
+    padding: 0 110px;
+    
+    
+}
+
+.btn2{
+    margin-left: 650px;
+    height: 35px;
+    width: 100px;
+    border: none;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    font-family: myfont;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+.btn2:focus:hover{
+    outline: none;
+}
+.btn2:hover{
+   background-color: red;
+   cursor: pointer;
+}
+.brands{
+    
+    background-image: url( images/bg\ image.jpeg ) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-blend-mode: multiply;
+    background-color: rgba(3, 3, 3, 0.9);
+    
+    
+    
+    
+
+    
+    
+    
+    
+}
+.heading2{
+    text-align: center;
+    color: white;
+    font-family: myfont;
+    letter-spacing: 6px;
+    font-weight: lighter;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+
+    
+
+.images{
+    display: inline-block;
+    height: 345px;
+    width: 151.500px;
+    margin: 0 auto;
+    padding-left: 188px;
+    
+}
+.img{
+    padding: 25px 25px;
+}
+.image1list{
+    color: white;
+    list-style-type: none;
+    font-family: myfont;
+    
+    
+}
+.ul1{
+    padding-bottom: 50px;
+    
+}
+.ul3{
+    margin-top: 105px;
+   
+}
+.uldiv1{
+    padding: 10px 79px;
+    width: 187px;
+    height: 140px;
+}
+.uldiv2{
+    padding: 10px 79px;
+    width: 187px;
+    height: 140px;
+}
+.uldiv3{
+    padding: 10px 79px;
+    width: 187px;
+    height: 140px;
+}
+.heading4{
+    text-align: center;
+    color: white;
+    font-family: myfont;
+    letter-spacing: 6px;
+    font-weight: lighter;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.para2{
+    text-align: center;
+    font-family: myfont;
+    padding: 0 110px;
+    color: white;
+}
+.location{
+    display: inline-block;
+    padding-left:10%;
+    padding-top: 50px;
+}
+
+.lochead{
+    color: white;
+    font-family: myfont;
+}
+.address{
+    color: white;
+    font-family: myfont;
+    padding-right: 30px;
+   
+}
+.contact{
+    color: white;
+    font-family: myfont;
+    font-weight: lighter;
+    font-size: 50px;
+    padding-top: 50px;
+    display: inline-block;
+}
+.ulist{
+   color: white;
+   padding: 50px;
+   list-style-type:none;
+   padding-bottom:20px;
+   padding-top: 0;
+}
+.div1{
+    padding-left: 150px;
+    display: flex;
+    background-image: url( images/bg\ image2.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-blend-mode: multiply;
+    background-color: rgba(3, 3, 3, 0.9);
+}
+.subdiv{
+    display: inline-block;
+}
+
+.heading3{
+    color: white;
+    font-family: myfont;
+   
+    font-weight: lighter;
+    font-size: 30px;
+}
+.applogo{
+    display: inline-block;
+    
+}
+
+ .lastdiv{
+     background-color: black;
+ }   
+
+
+.p1{
+    color: white;
+    padding-left: 2%;
+    display: inline;
+    font-family: myfont;
+    font-size:14px;
+    
+    
+}
+.p2{
+    color: white;
+    padding-left: 22%;
+    display: inline;
+    font-family: myfont;
+    font-size:14px;
+     
+   
+}
+.p3{
+    color: white;
+    padding-left: 28%;
+    display: inline;
+    font-family: myfont;
+    font-size:14px;
+    
+    
+}
+
